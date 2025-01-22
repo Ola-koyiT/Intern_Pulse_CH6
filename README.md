@@ -2,8 +2,7 @@
 
 Welcome to the **Intern Pulse Logistics Performance Dashboard**, a comprehensive analysis of logistics operations, focusing on order volume, delivery performance, and profitability across different regions and products.
 
-![Dashboard Preview](./assets/dashboard_preview.png)
-
+![Dashboard](https://github.com/user-attachments/assets/9854ea5f-fc33-403e-85b0-7c0189607319)
 ---
 
 ## 📈 Key Metrics
@@ -73,4 +72,4 @@ Welcome to the **Intern Pulse Logistics Performance Dashboard**, a comprehensive
 
 💡 *We appreciate your feedback! Feel free to open an issue or contribute to improvements.*
 
-![Dashboard](https://github.com/user-attachments/assets/9854ea5f-fc33-403e-85b0-7c0189607319)
+
