@@ -1,6 +1,6 @@
 # 📊 Logistics Performance Dashboard (Project_1)
----
-Welcome to the **Intern Pulse Logistics Performance Dashboard**, a comprehensive analysis of logistics operations, focusing on order volume, delivery performance, and profitability across different regions and products.
+
+Welcome to the **Operational Performance Dashboard** of a logistics company, This dashboard details  a comprehensive analysis of logistics operations, focusing on order volume, delivery performance, and profitability across different regions and products.
 
 ![Dashboard](https://github.com/user-attachments/assets/9854ea5f-fc33-403e-85b0-7c0189607319)
 ---
